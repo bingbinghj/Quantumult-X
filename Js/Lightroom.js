@@ -1,4 +1,3 @@
-            
 #  https://t.me/QuantX  
 
 [rewrite_local]
